@@ -21,11 +21,11 @@
 </h4>
 </br>
 <p align="center">
- <a href="#Fatures">Fatures</a> •
- <a href="#pre-requsitos">Pré-requisitos</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#autor">Autor</a>
+ <a href="#-fatures">Fatures</a> •
+ <a href="#-pre-requsitos">Pré-requisitos</a> • 
+ <a href="#-tecnologias">Tecnologias</a> • 
+ <a href="#-contribuicao">Contribuição</a> • 
+ <a href="#-autor">Autor</a>
 </p>
 
 
@@ -37,7 +37,7 @@
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [X] Ajustar Front=end
+- [X] Ajustar Front-end
 - [ ] Ajustar alguns campos do formulário
 - [ ] Escrever as FAQs
 - [ ] Fazer formulário avançado
@@ -49,6 +49,9 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 </h1>
 <h1 align="center">
   <img width="800" alt="NextLevelWeek" title="#NextLevelWeek" src="src/assets/img/app.png" />
+</h1>
+<h1 align="center">
+  <img width="800" alt="NextLevelWeek" title="#NextLevelWeek" src="src/assets/img/faq.png" />
 </h1>
 
 <br>

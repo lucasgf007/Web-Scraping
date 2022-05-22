@@ -9,15 +9,19 @@ body {
     background-color: #121214;
     width: 100vw;
     height: 100vh;
-    position: fixed;
     top: 0px;
     left: 0px;
-    z-index: 50000;
     display: flex;
     justify-content: center;
-    align-items: center;   
+    align-items: center;
 }
 
+.tabela-container {
+    background-image: linear-gradient(180deg,#1d1929,rgba(18,18,20,0));
+    background-color: #121214;
+    width: 100%;
+    height: 100%;
+}
 
 /* container */
 .formulario{
@@ -51,3 +55,35 @@ body {
 .titulos h6 {
     color: #6833e4!important;
 }
+.titulos a {
+    color: #6833e4!important;
+    text-decoration:none;
+    padding: 5px;
+}
+.accordion-button:not(.collapsed) {
+    color: #6833e4;
+    background-color: #ece4ff;
+    box-shadow: inset 0 -1px 0 rgb(0 0 0 / 13%);
+}
+.lista ul li {
+    background-color: #F9FAFB;
+}
+
+
+@media only screen and (max-width: 500px) {
+    /* container */
+    .formulario{
+        background: white;
+        width: 90%;
+        min-width: 300px;
+        padding: 40px;
+        border: solid 1px white;
+        border-radius: 1.5em;
+        position: relative;
+        box-shadow: #3a3a3f 0.1em 0.1em 0.1em
+    }
+    .mobile-btn a {
+        margin-bottom: 5px;
+    }
+    
+  }
