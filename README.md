@@ -130,4 +130,4 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
 
 Feito com ❤️ por Lucas Gabriel 👋🏽 Entre em contato!
 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriellucas016@gmail.com)](mailto:gabriellucas016@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-gabriellucas016@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriellucas016@gmail.com)](mailto:gabriellucas016@gmail.com)
